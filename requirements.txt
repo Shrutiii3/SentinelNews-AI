@@ -1,0 +1,9 @@
+streamlit
+google-genai
+textblob
+feedparser
+beautifulsoup4
+plotly
+pandas
+deep-translator
+git+https://github.com/GONZOsint/factcheckexplorer.git
